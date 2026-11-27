@@ -1,2 +1,2 @@
 # KLH-CDIS-Project
-Project title = Cloud-Based Smart Home Device Management Platform
+Project title = AI-Powered Predictive Maintenance System for Industrial IoT Using Cloud Computing
